@@ -1,5 +1,5 @@
 ---
-description: >-
+Descrição: >-
   Curso introdutório sobre React com foco nos fundamentos, incluindo JSX, Props
   e Virtual DOM, com exercícios práticos para aplicação dos conceitos
   aprendidos.
